@@ -1,7 +1,7 @@
 repo_name: DotEspartoORGForPersonal/vk
-report_id: 49aca0bc1c6f745bcbd4cb1141260f88
+report_id: 034ecd850b6453e517123d443a7674d4
 repo_type: Public
-timestamp: '2023-11-08T16:20:10+00:00'
+timestamp: '2023-11-10T14:44:27+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: develop
@@ -19,6 +19,8 @@ tools:
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
   detection_source_url: examples/VkNet.Wpf/VkNet.Wpf.csproj
   detection_source: examples/VkNet.Wpf/VkNet.Wpf.csproj
+  last_updated_by: Инютин Максим Николаевич
+  last_updated_on: 2018-02-18 17:26:47.000000000 Z
 - name: C#
   description: Simple, general-purpose, object-oriented programming language for the
     .NET platform
@@ -42,6 +44,8 @@ tools:
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
   detection_source_url: examples/VkNet.Wpf/VkNet.Wpf.csproj
   detection_source: examples/VkNet.Wpf/VkNet.Wpf.csproj
+  last_updated_by: Инютин Максим Николаевич
+  last_updated_on: 2018-02-18 17:26:47.000000000 Z
 - name: ".NET Core"
   description: An Open Source, General-Purpose Development Platform Maintained by
     Microsoft and the .NET Community
@@ -55,6 +59,8 @@ tools:
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
   detection_source_url: VkNet.Tests/VkNet.Tests.csproj
   detection_source: examples/VkNet.Shared/VkNet.Shared.csproj
+  last_updated_by: Инютин Максим Николаевич
+  last_updated_on: 2022-11-09 20:51:55.000000000 Z
 - name: ASP.NET Core
   description: A cross-platform .NET framework for building modern cloud-based web
     applications on Windows, Mac, or Linux
@@ -68,6 +74,8 @@ tools:
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
   detection_source_url: VkNet.Generators/VkNet.Generators.csproj
   detection_source: examples/VkNet.Shared/VkNet.Shared.csproj
+  last_updated_by: Инютин Максим Николаевич
+  last_updated_on: 2022-11-09 20:51:55.000000000 Z
 - name: Azure Pipelines
   description: Continuously build, test, and deploy to any platform and cloud
   website_url: https://azure.microsoft.com/ko-kr/services/devops/pipelines/
@@ -77,6 +85,8 @@ tools:
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/10164/528389819366_e7a0672f0480b3e98d21_512.png
   detection_source: azure-pipelines.yml
+  last_updated_by: azure-pipelines[bot]
+  last_updated_on: 2018-09-14 18:21:01.000000000 Z
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
   website_url: https://www.docker.com/
@@ -105,6 +115,8 @@ tools:
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
   detection_source: ".github/workflows/ci.yml"
+  last_updated_by: inyutin-maxim
+  last_updated_on: 2020-12-26 12:30:20.000000000 Z
 - name: NuGet
   description: The package manager for .NET
   website_url: https://www.nuget.org/
@@ -114,6 +126,8 @@ tools:
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: Инютин Максим Николаевич
+  last_updated_on: 2018-02-18 17:26:47.000000000 Z
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
     projects
@@ -124,6 +138,8 @@ tools:
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
   detection_source: ".travis.yml"
+  last_updated_by: Инютин Максим Николаевич
+  last_updated_on: 2017-08-22 09:14:04.000000000 Z
 - name: xUnit
   description: An open source, community-focused unit testing tool
   website_url: http://xunit.github.io/
@@ -135,6 +151,8 @@ tools:
   image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
   detection_source_url: VkNet.Tests/VkNet.Tests.csproj
   detection_source: VkNet.Tests/VkNet.Tests.csproj
+  last_updated_by: Inyutin Maxim
+  last_updated_on: 2017-11-16 21:08:53.000000000 Z
 - name: NLog
   description: Flexible &amp; free open-source logging for .NET
   website_url: https://nlog-project.org/
@@ -142,6 +160,8 @@ tools:
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9672/nlog_logo_square_normal.png
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: Инютин Максим Николаевич
+  last_updated_on: 2019-06-16 14:12:09.000000000 Z
 - name: FluentAssertions
   description: A very extensive set of extension methods that allow you to more naturally
     specify the expected outcome of a TDD or BDD-style unit tests
@@ -155,6 +175,8 @@ tools:
   image_url: https://img.stackshare.io/package/13059/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
   detection_source_url: VkNet.Tests/VkNet.Tests.csproj
   detection_source: VkNet.Tests/VkNet.Tests.csproj
+  last_updated_by: Инютин Максим Николаевич
+  last_updated_on: 2022-11-09 20:51:55.000000000 Z
 - name: Flurl
   description: A fluent, portable URL builder
   package_url: https://www.nuget.org/Flurl
@@ -167,6 +189,8 @@ tools:
   image_url: https://img.stackshare.io/package/13265/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: Инютин Максим Николаевич
+  last_updated_on: 2019-06-16 14:12:09.000000000 Z
 - name: Flurl.Http
   description: A fluent, portable, testable HTTP client library
   package_url: https://www.nuget.org/Flurl.Http
@@ -179,6 +203,8 @@ tools:
   image_url: https://img.stackshare.io/package/13067/default_93e02eb7d45132418f2d0883925aa855402409c1.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: Инютин Максим Николаевич
+  last_updated_on: 2019-06-16 14:12:09.000000000 Z
 - name: HtmlAgilityPack
   description: This is an agile HTML parser that builds a read/write DOM and supports
     plain XPATH or XSLT
@@ -191,6 +217,8 @@ tools:
   image_url: https://img.stackshare.io/package/12918/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
   detection_source_url: VkNet/VkNet.csproj
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-12-09 21:01:46.000000000 Z
 - name: JetBrains.Annotations
   description: ReSharper Annotations help reduce false positive warnings
   package_url: https://www.nuget.org/JetBrains.Annotations
@@ -203,6 +231,8 @@ tools:
   image_url: https://img.stackshare.io/package/12869/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
   detection_source_url: VkNet/VkNet.csproj
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: Инютин Максим Николаевич
+  last_updated_on: 2022-11-09 20:51:55.000000000 Z
 - name: Microsoft.Bcl
   description: 'This packages enables projects targeting down-level platforms to use
     some of the types added in later versions including: - CallerMemberNameAttribute
@@ -216,6 +246,8 @@ tools:
   image_url: https://img.stackshare.io/package/12902/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: Microsoft.Bcl.Async
   description: This package enables Visual Studio 2012 projects to use the new 'async'
     and 'await' keywords
@@ -228,6 +260,8 @@ tools:
   image_url: https://img.stackshare.io/package/12917/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: Microsoft.Bcl.Build
   description: This package provides build infrastructure components so that projects
     referencing specific Microsoft packages can successfully build
@@ -240,6 +274,8 @@ tools:
   image_url: https://img.stackshare.io/package/12905/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: Microsoft.Extensions.Configuration
   description: Implementation of key-value pair based configuration for Microsoft.Extensions.Configuration
   package_url: https://www.nuget.org/Microsoft.Extensions.Configuration
@@ -252,6 +288,8 @@ tools:
   image_url: https://img.stackshare.io/package/12856/default_0f5233770e71818507f2339042e7e61bef904e70.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: Microsoft.Extensions.Configuration.Abstractions
   description: Abstractions of key-value pair based configuration
   package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.Abstractions
@@ -264,6 +302,8 @@ tools:
   image_url: https://img.stackshare.io/package/12885/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: Microsoft.Extensions.Configuration.Binder
   description: Functionality to bind an object to data in configuration providers
     for Microsoft.Extensions.Configuration
@@ -277,6 +317,8 @@ tools:
   image_url: https://img.stackshare.io/package/12893/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: Microsoft.Extensions.DependencyInjection
   description: Default implementation of dependency injection for Microsoft.Extensions.DependencyInjection
   package_url: https://www.nuget.org/Microsoft.Extensions.DependencyInjection
@@ -289,6 +331,8 @@ tools:
   image_url: https://img.stackshare.io/package/12846/default_0f5233770e71818507f2339042e7e61bef904e70.png
   detection_source_url: VkNet/VkNet.csproj
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-12-09 21:01:46.000000000 Z
 - name: Microsoft.Extensions.DependencyInjection.Abstractions
   description: Abstractions for dependency injection
   package_url: https://www.nuget.org/Microsoft.Extensions.DependencyInjection.Abstractions
@@ -301,6 +345,8 @@ tools:
   image_url: https://img.stackshare.io/package/12848/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: Microsoft.Extensions.Logging
   description: Logging infrastructure default implementation for Microsoft.Extensions.Logging
   package_url: https://www.nuget.org/Microsoft.Extensions.Logging
@@ -313,6 +359,8 @@ tools:
   image_url: https://img.stackshare.io/package/12854/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: Microsoft.Extensions.Logging.Abstractions
   description: Logging abstractions for Microsoft.Extensions.Logging
   package_url: https://www.nuget.org/Microsoft.Extensions.Logging.Abstractions
@@ -325,6 +373,8 @@ tools:
   image_url: https://img.stackshare.io/package/12853/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
   detection_source_url: VkNet/VkNet.csproj
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-12-09 21:01:46.000000000 Z
 - name: Microsoft.Extensions.Options
   description: Provides a strongly typed way of specifying and accessing settings
     using dependency injection
@@ -338,6 +388,8 @@ tools:
   image_url: https://img.stackshare.io/package/12866/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: Microsoft.Extensions.Primitives
   description: Primitives shared by framework extensions
   package_url: https://www.nuget.org/Microsoft.Extensions.Primitives
@@ -350,6 +402,8 @@ tools:
   image_url: https://img.stackshare.io/package/13043/default_0af6f5844ebd9062a9a4895d909753dc8447f2f3.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: Microsoft.NETCore.Platforms
   description: Provides runtime information required to resolve target framework,
     platform, and runtime specific implementations of .NETCore packages
@@ -363,6 +417,8 @@ tools:
   image_url: https://img.stackshare.io/package/12907/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: Microsoft.Net.Http
   description: This package includes HttpClient for sending requests over HTTP, as
     well as HttpRequestMessage and HttpResponseMessage for processing HTTP messages
@@ -376,6 +432,8 @@ tools:
   image_url: https://img.stackshare.io/package/12875/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: Microsoft.Win32.Primitives
   description: Provides common types for Win32-based libraries
   package_url: https://www.nuget.org/Microsoft.Win32.Primitives
@@ -387,6 +445,8 @@ tools:
   image_url: https://img.stackshare.io/package/13149/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: Moq
   description: Moq is the most popular and friendly mocking framework for .NET
   package_url: https://www.nuget.org/Moq
@@ -399,6 +459,8 @@ tools:
   image_url: https://img.stackshare.io/package/12958/default_c33fee4544dbdcb376300222dc5e214ee63f7ce9.png
   detection_source_url: VkNet.Tests/VkNet.Tests.csproj
   detection_source: VkNet.Tests/VkNet.Tests.csproj
+  last_updated_by: Inyutin Maxim
+  last_updated_on: 2017-11-16 21:08:53.000000000 Z
 - name: NETStandard.Library
   description: A set of standard .NET APIs that are prescribed to be used and supported
     together
@@ -411,6 +473,8 @@ tools:
   image_url: https://img.stackshare.io/package/12843/default_0f5233770e71818507f2339042e7e61bef904e70.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: Инютин Максим Николаевич
+  last_updated_on: 2018-12-03 20:53:24.000000000 Z
 - name: Newtonsoft.Json
   description: Json.NET is a popular high-performance JSON framework for .NET
   package_url: https://www.nuget.org/Newtonsoft.Json
@@ -423,6 +487,8 @@ tools:
   image_url: https://img.stackshare.io/package/nuget/image.png
   detection_source_url: VkNet/VkNet.csproj
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-12-09 21:01:46.000000000 Z
 - name: SonarAnalyzer.CSharp
   description: Analyzers which spot bugs and code smells in your code
   package_url: https://www.nuget.org/SonarAnalyzer.CSharp
@@ -434,6 +500,8 @@ tools:
   image_url: https://img.stackshare.io/package/14021/default_5cc7ff1dadffe5f694f858b281e9a8eb4358038e.png
   detection_source_url: VkNet/VkNet.csproj
   detection_source: VkNet/VkNet.csproj
+  last_updated_by: Инютин Максим Николаевич
+  last_updated_on: 2022-11-09 20:51:55.000000000 Z
 - name: System.AppContext
   description: Provides the System.AppContext class, which allows access to the BaseDirectory
     property and other application specific data
@@ -446,6 +514,8 @@ tools:
   image_url: https://img.stackshare.io/package/13144/default_a5e8cd728170fc92850284a53a17ff7deb73f318.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Buffers
   description: Provides resource pooling of any type for performance-critical applications
     that allocate and deallocate objects frequently
@@ -458,6 +528,8 @@ tools:
   image_url: https://img.stackshare.io/package/13038/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Collections
   description: Provides classes that define generic collections
   package_url: https://www.nuget.org/System.Collections
@@ -469,6 +541,8 @@ tools:
   image_url: https://img.stackshare.io/package/12855/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Collections.Concurrent
   description: Provides several thread-safe collection classes that should be used
     in place of the corresponding types in the System.Collections.NonGeneric and System.Collections
@@ -482,6 +556,8 @@ tools:
   image_url: https://img.stackshare.io/package/12925/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.ComponentModel.Annotations
   description: Provides attributes that are used to define metadata for objects used
     as data sources
@@ -495,6 +571,8 @@ tools:
   image_url: https://img.stackshare.io/package/12862/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Console
   description: Provides the System.Console class, which represents the standard input,
     output and error streams for console applications
@@ -507,6 +585,8 @@ tools:
   image_url: https://img.stackshare.io/package/12992/default_971bb108ce002c2032e407a9046135e1542c46c7.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: System.Diagnostics.Debug
   description: Provides classes and attributes that allows basic interaction with
     a debugger
@@ -519,6 +599,8 @@ tools:
   image_url: https://img.stackshare.io/package/12887/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Diagnostics.Tools
   description: Provides attributes, such as GeneratedCodeAttribute and SuppresMessageAttribute,
     that are emitted or consumed by analysis tools
@@ -531,6 +613,8 @@ tools:
   image_url: https://img.stackshare.io/package/12946/default_3bbc310dbe28a83b0e799743dc3f0afaa77665c9.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Diagnostics.Tracing
   description: Provides class that enable you to create high performance tracing events
     to be captured by event tracing for Windows
@@ -543,6 +627,8 @@ tools:
   image_url: https://img.stackshare.io/package/13072/default_a057bdad489be3cb053d372a68695da4ac94962d.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Dynamic.Runtime
   description: Provides classes and interfaces that support the Dynamic Language Runtime
   package_url: https://www.nuget.org/System.Dynamic.Runtime
@@ -554,6 +640,8 @@ tools:
   image_url: https://img.stackshare.io/package/12921/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Globalization
   description: Provides classes that define culture-related information
   package_url: https://www.nuget.org/System.Globalization
@@ -565,6 +653,8 @@ tools:
   image_url: https://img.stackshare.io/package/12895/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Globalization.Calendars
   description: Provides classes for performing date calculations using specific calendars,
     including the Gregorian, Julian, Hijri and Korean calendars
@@ -577,6 +667,8 @@ tools:
   image_url: https://img.stackshare.io/package/13335/default_9a849f196ca7930b27f663ae8f15c937ea1b49e5.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.IO
   description: Provides base input and output
   package_url: https://www.nuget.org/System.IO
@@ -588,6 +680,8 @@ tools:
   image_url: https://img.stackshare.io/package/12901/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.IO.Compression
   description: Provides classes that support the compression and decompression of
     streams
@@ -600,6 +694,8 @@ tools:
   image_url: https://img.stackshare.io/package/12997/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: System.IO.Compression.ZipFile
   description: Provides classes that support the compression and decompression of
     streams using file system paths
@@ -612,6 +708,8 @@ tools:
   image_url: https://img.stackshare.io/package/13240/default_43ce02ab18bb400d4d6b410ac4dc3a50f87e634a.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: System.IO.FileSystem
   description: Provides types that allow reading and writing to files and types that
     provide basic file and directory support
@@ -624,6 +722,8 @@ tools:
   image_url: https://img.stackshare.io/package/12931/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.IO.FileSystem.Primitives
   description: Provides common enumerations and exceptions for path-based I/O libraries
   package_url: https://www.nuget.org/System.IO.FileSystem.Primitives
@@ -635,6 +735,8 @@ tools:
   image_url: https://img.stackshare.io/package/13111/default_623cfb3f5700f77ec1aadc91de41d13f3aa2ae3d.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Linq
   description: Provides classes and interfaces that supports queries that use Language-Integrated
     Query
@@ -647,6 +749,8 @@ tools:
   image_url: https://img.stackshare.io/package/12857/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Linq.Expressions
   description: Provides classes, interfaces and enumerations that enable language-level
     code expressions to be represented as objects in the form of expression trees
@@ -659,6 +763,8 @@ tools:
   image_url: https://img.stackshare.io/package/12924/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: System.Memory
   description: Provides types for efficient representation and pooling of managed
   package_url: https://www.nuget.org/System.Memory
@@ -670,6 +776,8 @@ tools:
   image_url: https://img.stackshare.io/package/12974/default_d871263d8798790404638a4d3692cc70b6389166.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Net.Http
   description: Provides a programming interface for modern HTTP applications
   package_url: https://www.nuget.org/System.Net.Http
@@ -681,6 +789,8 @@ tools:
   image_url: https://img.stackshare.io/package/12860/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Net.Primitives
   description: Provides common types for network-based libraries, including System.Net.IPAddress,
     System.Net.IPEndPoint, and System.Net.CookieContainer
@@ -693,6 +803,8 @@ tools:
   image_url: https://img.stackshare.io/package/12985/default_dd10728859f7e363ef13345d855b2daba48cace4.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Net.Sockets
   description: Provides classes such as Socket, TcpClient and UdpClient, which enable
     developers to send and receive data over the network
@@ -705,6 +817,8 @@ tools:
   image_url: https://img.stackshare.io/package/13036/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Numerics.Vectors
   description: Provides hardware-accelerated numeric types, suitable for high-performance
     processing and graphics applications
@@ -717,6 +831,8 @@ tools:
   image_url: https://img.stackshare.io/package/13087/default_1b8be57b16f1f491c0e5f67e5d1021f4df68ea30.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.ObjectModel
   description: Provides types and interfaces that allow the creation of observable
     types that provide notifications to clients when changes are made to it
@@ -729,6 +845,8 @@ tools:
   image_url: https://img.stackshare.io/package/12994/default_971bb108ce002c2032e407a9046135e1542c46c7.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Reflection
   description: Provides types that retrieve information about assemblies, modules,
     members, parameters, and other entities in managed code by examining their metadata
@@ -741,6 +859,8 @@ tools:
   image_url: https://img.stackshare.io/package/12874/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Reflection.Extensions
   description: Provides custom attribute extension methods for System.Reflection types
   package_url: https://www.nuget.org/System.Reflection.Extensions
@@ -752,6 +872,8 @@ tools:
   image_url: https://img.stackshare.io/package/12900/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: System.Reflection.Primitives
   description: Provides common enumerations for reflection-based libraries
   package_url: https://www.nuget.org/System.Reflection.Primitives
@@ -763,6 +885,8 @@ tools:
   image_url: https://img.stackshare.io/package/13006/default_12f7186a6d439da94c192c70c3589768d943782d.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Resources.ResourceManager
   description: Provides classes and attributes that allow developers to create, store,
     and manage various culture-specific resources used in an application
@@ -775,6 +899,8 @@ tools:
   image_url: https://img.stackshare.io/package/12898/default_1763b424d3c06c730dd020813f1a1a6ffb953bc2.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Runtime
   description: Provides the fundamental primitives
   package_url: https://www.nuget.org/System.Runtime
@@ -786,6 +912,8 @@ tools:
   image_url: https://img.stackshare.io/package/12849/default_0f5233770e71818507f2339042e7e61bef904e70.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Runtime.Extensions
   description: Provides commonly-used classes for performing mathematical functions,
     conversions, string comparisons and querying environment information
@@ -798,6 +926,8 @@ tools:
   image_url: https://img.stackshare.io/package/12872/default_1763b424d3c06c730dd020813f1a1a6ffb953bc2.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: System.Runtime.Handles
   description: Provides base classes, including System.Runtime.InteropServices.CriticalHandle
     and System.Runtime.InteropServices.SafeHandle, for types that represent operating
@@ -811,6 +941,8 @@ tools:
   image_url: https://img.stackshare.io/package/13103/default_9a42ff760d96a634e61dad6d7a7d76e2d1506229.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Runtime.InteropServices
   description: Provides types that support COM interop and platform invoke services
   package_url: https://www.nuget.org/System.Runtime.InteropServices
@@ -822,6 +954,8 @@ tools:
   image_url: https://img.stackshare.io/package/12908/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Runtime.InteropServices.RuntimeInformation
   description: Provides APIs to query about runtime and OS information
   package_url: https://www.nuget.org/System.Runtime.InteropServices.RuntimeInformation
@@ -833,6 +967,8 @@ tools:
   image_url: https://img.stackshare.io/package/12960/default_cd4457378b2b3dee674f43707df49edfbc5c04e5.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Runtime.Numerics
   description: Provides the numeric types System.Numerics.BigInteger and System.Numerics.Complex,
     which complement the numeric primitives, such as System.Byte, System.Double and
@@ -846,6 +982,8 @@ tools:
   image_url: https://img.stackshare.io/package/13039/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Security.Cryptography.Algorithms
   description: Provides base types for cryptographic algorithms, including hashing,
     encryption, and signing operations
@@ -858,6 +996,8 @@ tools:
   image_url: https://img.stackshare.io/package/12929/default_039376cf26bae25623c106aea6185b89980a1e50.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Security.Cryptography.Encoding
   description: Provides types for representing Abstract Syntax Notation One
   package_url: https://www.nuget.org/System.Security.Cryptography.Encoding
@@ -869,6 +1009,8 @@ tools:
   image_url: https://img.stackshare.io/package/13179/default_42e87535b59c0cd77a89678c1c4ed24abc143f58.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Security.Cryptography.Primitives
   description: Provides common types for the cryptographic libraries
   package_url: https://www.nuget.org/System.Security.Cryptography.Primitives
@@ -880,6 +1022,8 @@ tools:
   image_url: https://img.stackshare.io/package/13109/default_f0c74e534077001eb65a152707758ce46a2dc970.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Security.Cryptography.X509Certificates
   description: Provides types for reading, exporting and verifying Authenticode X.509
     v3 certificates
@@ -892,6 +1036,8 @@ tools:
   image_url: https://img.stackshare.io/package/13009/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Text.Encoding
   description: Provides base abstract encoding classes for converting blocks of characters
     to and from blocks of bytes
@@ -904,6 +1050,8 @@ tools:
   image_url: https://img.stackshare.io/package/12933/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Text.Encoding.CodePages
   description: Provides support for code-page based encodings, including Windows-1252,
     Shift-JIS, and GB2312
@@ -917,6 +1065,8 @@ tools:
   image_url: https://img.stackshare.io/package/12953/default_e7f4dfb8f4634d3de09f6ace4c8d9767d3189c61.png
   detection_source_url: VkNet/VkNet.csproj
   detection_source: VkNet/VkNet.csproj
+  last_updated_by: Инютин Максим Николаевич
+  last_updated_on: 2022-11-09 20:51:55.000000000 Z
 - name: System.Text.Encoding.Extensions
   description: Provides support for specific encodings, including ASCII, UTF-7, UTF-8,
     UTF-16, and UTF-32
@@ -929,6 +1079,8 @@ tools:
   image_url: https://img.stackshare.io/package/12973/default_3bbc310dbe28a83b0e799743dc3f0afaa77665c9.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: System.Text.RegularExpressions
   description: Provides the System.Text.RegularExpressions.Regex class, an implementation
     of a regular expression engine
@@ -941,6 +1093,8 @@ tools:
   image_url: https://img.stackshare.io/package/12916/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-06-23 18:44:21.000000000 Z
 - name: System.Threading
   description: Provides the fundamental synchronization primitives, including System.Threading.Monitor
     and System.Threading.Mutex, that are required when writing asynchronous code
@@ -953,6 +1107,8 @@ tools:
   image_url: https://img.stackshare.io/package/12861/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Threading.Tasks
   description: Provides types that simplify the work of writing concurrent and asynchronous
     code
@@ -965,6 +1121,8 @@ tools:
   image_url: https://img.stackshare.io/package/12899/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Threading.Timer
   description: Provides the System.Threading.Timer class, which is a mechanism for
     executing a method at specified intervals
@@ -977,6 +1135,8 @@ tools:
   image_url: https://img.stackshare.io/package/13016/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Xml.ReaderWriter
   description: Provides provides a fast, non-cached, forward-only way to read and
     write Extensible Markup Language
@@ -989,6 +1149,8 @@ tools:
   image_url: https://img.stackshare.io/package/12962/default_bd8397841d0aa5de035298a9130ee2dc9d9b0ece.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: System.Xml.XDocument
   description: Provides the classes for Language-Integrated Query
   package_url: https://www.nuget.org/System.Xml.XDocument
@@ -1000,6 +1162,8 @@ tools:
   image_url: https://img.stackshare.io/package/12964/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
   detection_source_url: examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-08-04 21:25:46.000000000 Z
 - name: xunit.runner.visualstudio
   description: Visual Studio 2012+ Test Explorer runner for the xUnit.net framework
   package_url: https://www.nuget.org/xunit.runner.visualstudio
@@ -1012,3 +1176,5 @@ tools:
   image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
   detection_source_url: VkNet.Tests/VkNet.Tests.csproj
   detection_source: VkNet.Tests/VkNet.Tests.csproj
+  last_updated_by: Инютин Максим Николаевич
+  last_updated_on: 2022-08-18 21:07:34.000000000 Z
