@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 DotEspartoORGForPersonal/vk is built on the following main stack:
+
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [C#](http://csharp.net) – Languages
 - [xUnit](http://xunit.github.io/) – Testing Frameworks
@@ -10,15 +11,17 @@ DotEspartoORGForPersonal/vk is built on the following main stack:
 - [Azure Pipelines](https://azure.microsoft.com/ko-kr/services/devops/pipelines/) – Continuous Integration
 - [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Travis CI](http://travis-ci.com/) – Continuous Integration
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 DotEspartoORGForPersonal/vk is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png' alt='xUnit'/> [xUnit](http://xunit.github.io/) – Testing Frameworks
@@ -27,18 +30,19 @@ DotEspartoORGForPersonal/vk is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/10164/528389819366_e7a0672f0480b3e98d21_512.png' alt='Azure Pipelines'/> [Azure Pipelines](https://azure.microsoft.com/ko-kr/services/devops/pipelines/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/11331/asp.net-core.png' alt='ASP.NET Core'/> [ASP.NET Core](docs.microsoft.com/en-us/aspnet/core/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEspartoORGForPersonal/vk](https://github.com/DotEspartoORGForPersonal/vk)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|86<br/>Tools used|11/24/23 <br/>Report generated|
+|86<br/>Tools used|12/01/23 <br/>Report generated|
 |------|------|
 </div>
 
