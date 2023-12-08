@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEspartoORGForPersonal/vk](https://github.com/DotEspartoORGForPersonal/vk)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|86<br/>Tools used|12/01/23 <br/>Report generated|
+|86<br/>Tools used|12/08/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -177,79 +177,79 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[FluentAssertions](https://www.nuget.org/FluentAssertions)|v6.8.0|N/A|N/A |Apache-2.0|N/A|
-|[Flurl](https://www.nuget.org/Flurl)|v2.8.2|N/A|N/A |MIT|N/A|
-|[Flurl.Http](https://www.nuget.org/Flurl.Http)|v2.4.2|N/A|N/A |MIT|N/A|
-|[HtmlAgilityPack](https://www.nuget.org/HtmlAgilityPack)|v1.11.46|N/A|N/A |N/A|N/A|
-|[JetBrains.Annotations](https://www.nuget.org/JetBrains.Annotations)|v2022.3.1|N/A|N/A |MIT|N/A|
-|[Microsoft.Bcl](https://www.nuget.org/Microsoft.Bcl)|v1.1.10|N/A|N/A |N/A|N/A|
-|[Microsoft.Bcl.Async](https://www.nuget.org/Microsoft.Bcl.Async)|v1.0.168|N/A|N/A |N/A|N/A|
-|[Microsoft.Bcl.Build](https://www.nuget.org/Microsoft.Bcl.Build)|v1.0.21|N/A|N/A |N/A|N/A|
-|[Microsoft.Extensions.Configuration](https://www.nuget.org/Microsoft.Extensions.Configuration)|v2.2.0|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.Extensions.Configuration.Abstractions](https://www.nuget.org/Microsoft.Extensions.Configuration.Abstractions)|v2.2.0|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.Extensions.Configuration.Binder](https://www.nuget.org/Microsoft.Extensions.Configuration.Binder)|v2.2.4|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.Extensions.DependencyInjection](https://www.nuget.org/Microsoft.Extensions.DependencyInjection)|v7.0.0|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.Extensions.DependencyInjection.Abstractions](https://www.nuget.org/Microsoft.Extensions.DependencyInjection.Abstractions)|v2.2.0|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.Extensions.Logging](https://www.nuget.org/Microsoft.Extensions.Logging)|v2.2.0|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.Extensions.Logging.Abstractions](https://www.nuget.org/Microsoft.Extensions.Logging.Abstractions)|v7.0.0|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.Extensions.Options](https://www.nuget.org/Microsoft.Extensions.Options)|v2.2.0|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.Extensions.Primitives](https://www.nuget.org/Microsoft.Extensions.Primitives)|v2.2.0|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.NETCore.Platforms](https://www.nuget.org/Microsoft.NETCore.Platforms)|v2.2.1|N/A|N/A |MIT|N/A|
-|[Microsoft.Net.Http](https://www.nuget.org/Microsoft.Net.Http)|v2.2.29|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.Win32.Primitives](https://www.nuget.org/Microsoft.Win32.Primitives)|v4.3.0|N/A|N/A |N/A|N/A|
-|[Moq](https://www.nuget.org/Moq)|v4.18.2|N/A|N/A |BSD-3-Clause|N/A|
-|[NETStandard.Library](https://www.nuget.org/NETStandard.Library)|v1.6.1|N/A|N/A |N/A|N/A|
-|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v13.0.2|N/A|N/A |MIT|N/A|
-|[SonarAnalyzer.CSharp](https://www.nuget.org/SonarAnalyzer.CSharp)|v8.48.0|N/A|N/A |N/A|N/A|
-|[System.AppContext](https://www.nuget.org/System.AppContext)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Buffers](https://www.nuget.org/System.Buffers)|v4.4.0|N/A|N/A |N/A|N/A|
-|[System.Collections](https://www.nuget.org/System.Collections)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Collections.Concurrent](https://www.nuget.org/System.Collections.Concurrent)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.ComponentModel.Annotations](https://www.nuget.org/System.ComponentModel.Annotations)|v4.5.0|N/A|N/A |MIT|N/A|
-|[System.Console](https://www.nuget.org/System.Console)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Diagnostics.Debug](https://www.nuget.org/System.Diagnostics.Debug)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Diagnostics.Tools](https://www.nuget.org/System.Diagnostics.Tools)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Diagnostics.Tracing](https://www.nuget.org/System.Diagnostics.Tracing)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Dynamic.Runtime](https://www.nuget.org/System.Dynamic.Runtime)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Globalization](https://www.nuget.org/System.Globalization)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Globalization.Calendars](https://www.nuget.org/System.Globalization.Calendars)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.IO](https://www.nuget.org/System.IO)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.IO.Compression](https://www.nuget.org/System.IO.Compression)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.IO.Compression.ZipFile](https://www.nuget.org/System.IO.Compression.ZipFile)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.IO.FileSystem](https://www.nuget.org/System.IO.FileSystem)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.IO.FileSystem.Primitives](https://www.nuget.org/System.IO.FileSystem.Primitives)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Linq](https://www.nuget.org/System.Linq)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Linq.Expressions](https://www.nuget.org/System.Linq.Expressions)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Memory](https://www.nuget.org/System.Memory)|v4.5.1|N/A|N/A |N/A|N/A|
-|[System.Net.Http](https://www.nuget.org/System.Net.Http)|v4.3.4|N/A|N/A |N/A|N/A|
-|[System.Net.Primitives](https://www.nuget.org/System.Net.Primitives)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Net.Sockets](https://www.nuget.org/System.Net.Sockets)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Numerics.Vectors](https://www.nuget.org/System.Numerics.Vectors)|v4.4.0|N/A|N/A |N/A|N/A|
-|[System.ObjectModel](https://www.nuget.org/System.ObjectModel)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Reflection](https://www.nuget.org/System.Reflection)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Reflection.Extensions](https://www.nuget.org/System.Reflection.Extensions)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Reflection.Primitives](https://www.nuget.org/System.Reflection.Primitives)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Resources.ResourceManager](https://www.nuget.org/System.Resources.ResourceManager)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Runtime](https://www.nuget.org/System.Runtime)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Runtime.Extensions](https://www.nuget.org/System.Runtime.Extensions)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Runtime.Handles](https://www.nuget.org/System.Runtime.Handles)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Runtime.InteropServices](https://www.nuget.org/System.Runtime.InteropServices)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Runtime.InteropServices.RuntimeInformation](https://www.nuget.org/System.Runtime.InteropServices.RuntimeInformation)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Runtime.Numerics](https://www.nuget.org/System.Runtime.Numerics)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Security.Cryptography.Algorithms](https://www.nuget.org/System.Security.Cryptography.Algorithms)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Security.Cryptography.Encoding](https://www.nuget.org/System.Security.Cryptography.Encoding)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Security.Cryptography.Primitives](https://www.nuget.org/System.Security.Cryptography.Primitives)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Security.Cryptography.X509Certificates](https://www.nuget.org/System.Security.Cryptography.X509Certificates)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Text.Encoding](https://www.nuget.org/System.Text.Encoding)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Text.Encoding.CodePages](https://www.nuget.org/System.Text.Encoding.CodePages)|v7.0.0|N/A|N/A |MIT|N/A|
-|[System.Text.Encoding.Extensions](https://www.nuget.org/System.Text.Encoding.Extensions)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Text.RegularExpressions](https://www.nuget.org/System.Text.RegularExpressions)|v4.3.1|N/A|N/A |N/A|N/A|
-|[System.Threading](https://www.nuget.org/System.Threading)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Threading.Tasks](https://www.nuget.org/System.Threading.Tasks)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Threading.Timer](https://www.nuget.org/System.Threading.Timer)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Xml.ReaderWriter](https://www.nuget.org/System.Xml.ReaderWriter)|v4.3.0|N/A|N/A |N/A|N/A|
-|[System.Xml.XDocument](https://www.nuget.org/System.Xml.XDocument)|v4.3.0|N/A|N/A |N/A|N/A|
-|[xunit.runner.visualstudio](https://www.nuget.org/xunit.runner.visualstudio)|v2.4.5|N/A|N/A |Other|N/A|
+|[FluentAssertions](https://www.nuget.org/FluentAssertions)|v6.8.0|11/09/22|Инютин Максим Николаевич |Apache-2.0|N/A|
+|[Flurl](https://www.nuget.org/Flurl)|v2.8.2|06/16/19|Инютин Максим Николаевич |MIT|N/A|
+|[Flurl.Http](https://www.nuget.org/Flurl.Http)|v2.4.2|06/16/19|Инютин Максим Николаевич |MIT|N/A|
+|[HtmlAgilityPack](https://www.nuget.org/HtmlAgilityPack)|v1.11.46|12/09/22|dependabot[bot] |N/A|N/A|
+|[JetBrains.Annotations](https://www.nuget.org/JetBrains.Annotations)|v2022.3.1|11/09/22|Инютин Максим Николаевич |MIT|N/A|
+|[Microsoft.Bcl](https://www.nuget.org/Microsoft.Bcl)|v1.1.10|06/23/22|dependabot[bot] |N/A|N/A|
+|[Microsoft.Bcl.Async](https://www.nuget.org/Microsoft.Bcl.Async)|v1.0.168|06/23/22|dependabot[bot] |N/A|N/A|
+|[Microsoft.Bcl.Build](https://www.nuget.org/Microsoft.Bcl.Build)|v1.0.21|06/23/22|dependabot[bot] |N/A|N/A|
+|[Microsoft.Extensions.Configuration](https://www.nuget.org/Microsoft.Extensions.Configuration)|v2.2.0|06/23/22|dependabot[bot] |Apache-2.0|N/A|
+|[Microsoft.Extensions.Configuration.Abstractions](https://www.nuget.org/Microsoft.Extensions.Configuration.Abstractions)|v2.2.0|06/23/22|dependabot[bot] |Apache-2.0|N/A|
+|[Microsoft.Extensions.Configuration.Binder](https://www.nuget.org/Microsoft.Extensions.Configuration.Binder)|v2.2.4|06/23/22|dependabot[bot] |Apache-2.0|N/A|
+|[Microsoft.Extensions.DependencyInjection](https://www.nuget.org/Microsoft.Extensions.DependencyInjection)|v7.0.0|12/09/22|dependabot[bot] |Apache-2.0|N/A|
+|[Microsoft.Extensions.DependencyInjection.Abstractions](https://www.nuget.org/Microsoft.Extensions.DependencyInjection.Abstractions)|v2.2.0|06/23/22|dependabot[bot] |Apache-2.0|N/A|
+|[Microsoft.Extensions.Logging](https://www.nuget.org/Microsoft.Extensions.Logging)|v2.2.0|06/23/22|dependabot[bot] |Apache-2.0|N/A|
+|[Microsoft.Extensions.Logging.Abstractions](https://www.nuget.org/Microsoft.Extensions.Logging.Abstractions)|v7.0.0|12/09/22|dependabot[bot] |Apache-2.0|N/A|
+|[Microsoft.Extensions.Options](https://www.nuget.org/Microsoft.Extensions.Options)|v2.2.0|06/23/22|dependabot[bot] |Apache-2.0|N/A|
+|[Microsoft.Extensions.Primitives](https://www.nuget.org/Microsoft.Extensions.Primitives)|v2.2.0|06/23/22|dependabot[bot] |Apache-2.0|N/A|
+|[Microsoft.NETCore.Platforms](https://www.nuget.org/Microsoft.NETCore.Platforms)|v2.2.1|06/23/22|dependabot[bot] |MIT|N/A|
+|[Microsoft.Net.Http](https://www.nuget.org/Microsoft.Net.Http)|v2.2.29|06/23/22|dependabot[bot] |Apache-2.0|N/A|
+|[Microsoft.Win32.Primitives](https://www.nuget.org/Microsoft.Win32.Primitives)|v4.3.0|06/23/22|dependabot[bot] |N/A|N/A|
+|[Moq](https://www.nuget.org/Moq)|v4.18.2|11/16/17|Inyutin Maxim |BSD-3-Clause|N/A|
+|[NETStandard.Library](https://www.nuget.org/NETStandard.Library)|v1.6.1|12/03/18|Инютин Максим Николаевич |N/A|N/A|
+|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v13.0.2|12/09/22|dependabot[bot] |MIT|N/A|
+|[SonarAnalyzer.CSharp](https://www.nuget.org/SonarAnalyzer.CSharp)|v8.48.0|11/09/22|Инютин Максим Николаевич |N/A|N/A|
+|[System.AppContext](https://www.nuget.org/System.AppContext)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Buffers](https://www.nuget.org/System.Buffers)|v4.4.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Collections](https://www.nuget.org/System.Collections)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Collections.Concurrent](https://www.nuget.org/System.Collections.Concurrent)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.ComponentModel.Annotations](https://www.nuget.org/System.ComponentModel.Annotations)|v4.5.0|08/04/21|dependabot[bot] |MIT|N/A|
+|[System.Console](https://www.nuget.org/System.Console)|v4.3.0|06/23/22|dependabot[bot] |N/A|N/A|
+|[System.Diagnostics.Debug](https://www.nuget.org/System.Diagnostics.Debug)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Diagnostics.Tools](https://www.nuget.org/System.Diagnostics.Tools)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Diagnostics.Tracing](https://www.nuget.org/System.Diagnostics.Tracing)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Dynamic.Runtime](https://www.nuget.org/System.Dynamic.Runtime)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Globalization](https://www.nuget.org/System.Globalization)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Globalization.Calendars](https://www.nuget.org/System.Globalization.Calendars)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.IO](https://www.nuget.org/System.IO)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.IO.Compression](https://www.nuget.org/System.IO.Compression)|v4.3.0|06/23/22|dependabot[bot] |N/A|N/A|
+|[System.IO.Compression.ZipFile](https://www.nuget.org/System.IO.Compression.ZipFile)|v4.3.0|06/23/22|dependabot[bot] |N/A|N/A|
+|[System.IO.FileSystem](https://www.nuget.org/System.IO.FileSystem)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.IO.FileSystem.Primitives](https://www.nuget.org/System.IO.FileSystem.Primitives)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Linq](https://www.nuget.org/System.Linq)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Linq.Expressions](https://www.nuget.org/System.Linq.Expressions)|v4.3.0|06/23/22|dependabot[bot] |N/A|N/A|
+|[System.Memory](https://www.nuget.org/System.Memory)|v4.5.1|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Net.Http](https://www.nuget.org/System.Net.Http)|v4.3.4|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Net.Primitives](https://www.nuget.org/System.Net.Primitives)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Net.Sockets](https://www.nuget.org/System.Net.Sockets)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Numerics.Vectors](https://www.nuget.org/System.Numerics.Vectors)|v4.4.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.ObjectModel](https://www.nuget.org/System.ObjectModel)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Reflection](https://www.nuget.org/System.Reflection)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Reflection.Extensions](https://www.nuget.org/System.Reflection.Extensions)|v4.3.0|06/23/22|dependabot[bot] |N/A|N/A|
+|[System.Reflection.Primitives](https://www.nuget.org/System.Reflection.Primitives)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Resources.ResourceManager](https://www.nuget.org/System.Resources.ResourceManager)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Runtime](https://www.nuget.org/System.Runtime)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Runtime.Extensions](https://www.nuget.org/System.Runtime.Extensions)|v4.3.0|06/23/22|dependabot[bot] |N/A|N/A|
+|[System.Runtime.Handles](https://www.nuget.org/System.Runtime.Handles)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Runtime.InteropServices](https://www.nuget.org/System.Runtime.InteropServices)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Runtime.InteropServices.RuntimeInformation](https://www.nuget.org/System.Runtime.InteropServices.RuntimeInformation)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Runtime.Numerics](https://www.nuget.org/System.Runtime.Numerics)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Security.Cryptography.Algorithms](https://www.nuget.org/System.Security.Cryptography.Algorithms)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Security.Cryptography.Encoding](https://www.nuget.org/System.Security.Cryptography.Encoding)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Security.Cryptography.Primitives](https://www.nuget.org/System.Security.Cryptography.Primitives)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Security.Cryptography.X509Certificates](https://www.nuget.org/System.Security.Cryptography.X509Certificates)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Text.Encoding](https://www.nuget.org/System.Text.Encoding)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Text.Encoding.CodePages](https://www.nuget.org/System.Text.Encoding.CodePages)|v7.0.0|11/09/22|Инютин Максим Николаевич |MIT|N/A|
+|[System.Text.Encoding.Extensions](https://www.nuget.org/System.Text.Encoding.Extensions)|v4.3.0|06/23/22|dependabot[bot] |N/A|N/A|
+|[System.Text.RegularExpressions](https://www.nuget.org/System.Text.RegularExpressions)|v4.3.1|06/23/22|dependabot[bot] |N/A|N/A|
+|[System.Threading](https://www.nuget.org/System.Threading)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Threading.Tasks](https://www.nuget.org/System.Threading.Tasks)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Threading.Timer](https://www.nuget.org/System.Threading.Timer)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Xml.ReaderWriter](https://www.nuget.org/System.Xml.ReaderWriter)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[System.Xml.XDocument](https://www.nuget.org/System.Xml.XDocument)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
+|[xunit.runner.visualstudio](https://www.nuget.org/xunit.runner.visualstudio)|v2.4.5|08/18/22|Инютин Максим Николаевич |Other|N/A|
 
 <br/>
 <div align='center'>
