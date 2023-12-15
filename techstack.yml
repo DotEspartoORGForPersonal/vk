@@ -1,7 +1,7 @@
 repo_name: DotEspartoORGForPersonal/vk
-report_id: a9500debde20c15b8c746835fd5e592c
+report_id: d0a8f80ec4a0988b175d899ed440c995
 repo_type: Public
-timestamp: '2023-12-11T15:21:37+00:00'
+timestamp: '2023-12-15T10:47:43+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: develop
@@ -17,7 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/VkNet.Wpf.csproj
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/VkNet.Wpf.csproj
   detection_source: examples/VkNet.Wpf/VkNet.Wpf.csproj
   last_updated_by: Инютин Максим Николаевич
   last_updated_on: 2018-02-18 17:26:47.000000000 Z
@@ -42,7 +42,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/VkNet.Wpf.csproj
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/VkNet.Wpf.csproj
   detection_source: examples/VkNet.Wpf/VkNet.Wpf.csproj
   last_updated_by: Инютин Максим Николаевич
   last_updated_on: 2018-02-18 17:26:47.000000000 Z
@@ -57,7 +57,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet.Tests/VkNet.Tests.csproj
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet.Tests/VkNet.Tests.csproj
   detection_source: VkNet.Tests/VkNet.Tests.csproj
   last_updated_by: Инютин Максим Николаевич
   last_updated_on: 2022-11-09 20:51:55.000000000 Z
@@ -72,7 +72,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet.Generators/VkNet.Generators.csproj
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet.Generators/VkNet.Generators.csproj
   detection_source: VkNet.Tests/VkNet.Tests.csproj
   last_updated_by: Инютин Максим Николаевич
   last_updated_on: 2022-11-09 20:51:55.000000000 Z
@@ -149,7 +149,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet.Tests/VkNet.Tests.csproj
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet.Tests/VkNet.Tests.csproj
   detection_source: VkNet.Tests/VkNet.Tests.csproj
   last_updated_by: Inyutin Maxim
   last_updated_on: 2017-11-16 21:08:53.000000000 Z
@@ -173,7 +173,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13059/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet.Tests/VkNet.Tests.csproj
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet.Tests/VkNet.Tests.csproj
   detection_source: VkNet.Tests/VkNet.Tests.csproj
   last_updated_by: Инютин Максим Николаевич
   last_updated_on: 2022-11-09 20:51:55.000000000 Z
@@ -187,7 +187,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13265/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: Инютин Максим Николаевич
   last_updated_on: 2019-06-16 14:12:09.000000000 Z
@@ -201,7 +201,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13067/default_93e02eb7d45132418f2d0883925aa855402409c1.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: Инютин Максим Николаевич
   last_updated_on: 2019-06-16 14:12:09.000000000 Z
@@ -215,7 +215,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12918/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet/VkNet.csproj
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet/VkNet.csproj
   detection_source: VkNet/VkNet.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-12-09 21:01:46.000000000 Z
@@ -229,7 +229,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12869/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet/VkNet.csproj
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet/VkNet.csproj
   detection_source: VkNet/VkNet.csproj
   last_updated_by: Инютин Максим Николаевич
   last_updated_on: 2022-11-09 20:51:55.000000000 Z
@@ -244,7 +244,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12902/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -258,7 +258,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12917/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -272,7 +272,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12905/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -286,7 +286,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12856/default_0f5233770e71818507f2339042e7e61bef904e70.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -300,7 +300,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12885/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -315,7 +315,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12893/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -329,7 +329,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12846/default_0f5233770e71818507f2339042e7e61bef904e70.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet/VkNet.csproj
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet/VkNet.csproj
   detection_source: VkNet/VkNet.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-12-09 21:01:46.000000000 Z
@@ -343,7 +343,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12848/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -357,7 +357,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12854/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -371,7 +371,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12853/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet/VkNet.csproj
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet/VkNet.csproj
   detection_source: VkNet/VkNet.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-12-09 21:01:46.000000000 Z
@@ -386,7 +386,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12866/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -400,7 +400,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13043/default_0af6f5844ebd9062a9a4895d909753dc8447f2f3.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -415,7 +415,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12907/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -430,7 +430,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12875/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -443,7 +443,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13149/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -457,7 +457,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12958/default_c33fee4544dbdcb376300222dc5e214ee63f7ce9.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet.Tests/VkNet.Tests.csproj
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet.Tests/VkNet.Tests.csproj
   detection_source: VkNet.Tests/VkNet.Tests.csproj
   last_updated_by: Inyutin Maxim
   last_updated_on: 2017-11-16 21:08:53.000000000 Z
@@ -471,7 +471,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12843/default_0f5233770e71818507f2339042e7e61bef904e70.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: Инютин Максим Николаевич
   last_updated_on: 2018-12-03 20:53:24.000000000 Z
@@ -485,7 +485,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/nuget/image.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet/VkNet.csproj
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet/VkNet.csproj
   detection_source: VkNet/VkNet.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-12-09 21:01:46.000000000 Z
@@ -498,7 +498,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14021/default_5cc7ff1dadffe5f694f858b281e9a8eb4358038e.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet/VkNet.csproj
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet/VkNet.csproj
   detection_source: VkNet/VkNet.csproj
   last_updated_by: Инютин Максим Николаевич
   last_updated_on: 2022-11-09 20:51:55.000000000 Z
@@ -512,7 +512,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13144/default_a5e8cd728170fc92850284a53a17ff7deb73f318.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -526,7 +526,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13038/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -539,7 +539,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12855/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -554,7 +554,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12925/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -569,7 +569,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12862/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -583,7 +583,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12992/default_971bb108ce002c2032e407a9046135e1542c46c7.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -597,7 +597,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12887/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -611,7 +611,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12946/default_3bbc310dbe28a83b0e799743dc3f0afaa77665c9.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -625,7 +625,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13072/default_a057bdad489be3cb053d372a68695da4ac94962d.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -638,7 +638,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12921/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -651,7 +651,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12895/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -665,7 +665,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13335/default_9a849f196ca7930b27f663ae8f15c937ea1b49e5.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -678,7 +678,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12901/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -692,7 +692,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12997/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -706,7 +706,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13240/default_43ce02ab18bb400d4d6b410ac4dc3a50f87e634a.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -720,7 +720,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12931/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -733,7 +733,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13111/default_623cfb3f5700f77ec1aadc91de41d13f3aa2ae3d.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -747,7 +747,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12857/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -761,7 +761,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12924/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -774,7 +774,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12974/default_d871263d8798790404638a4d3692cc70b6389166.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -787,7 +787,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12860/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -801,7 +801,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12985/default_dd10728859f7e363ef13345d855b2daba48cace4.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -815,7 +815,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13036/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -829,7 +829,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13087/default_1b8be57b16f1f491c0e5f67e5d1021f4df68ea30.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -843,7 +843,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12994/default_971bb108ce002c2032e407a9046135e1542c46c7.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -857,7 +857,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12874/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -870,7 +870,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12900/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -883,7 +883,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13006/default_12f7186a6d439da94c192c70c3589768d943782d.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -897,7 +897,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12898/default_1763b424d3c06c730dd020813f1a1a6ffb953bc2.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -910,7 +910,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12849/default_0f5233770e71818507f2339042e7e61bef904e70.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -924,7 +924,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12872/default_1763b424d3c06c730dd020813f1a1a6ffb953bc2.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -939,7 +939,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13103/default_9a42ff760d96a634e61dad6d7a7d76e2d1506229.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -952,7 +952,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12908/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -965,7 +965,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12960/default_cd4457378b2b3dee674f43707df49edfbc5c04e5.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -980,7 +980,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13039/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -994,7 +994,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12929/default_039376cf26bae25623c106aea6185b89980a1e50.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -1007,7 +1007,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13179/default_42e87535b59c0cd77a89678c1c4ed24abc143f58.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -1020,7 +1020,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13109/default_f0c74e534077001eb65a152707758ce46a2dc970.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -1034,7 +1034,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13009/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -1048,7 +1048,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12933/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -1063,7 +1063,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12953/default_e7f4dfb8f4634d3de09f6ace4c8d9767d3189c61.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet/VkNet.csproj
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet/VkNet.csproj
   detection_source: VkNet/VkNet.csproj
   last_updated_by: Инютин Максим Николаевич
   last_updated_on: 2022-11-09 20:51:55.000000000 Z
@@ -1077,7 +1077,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12973/default_3bbc310dbe28a83b0e799743dc3f0afaa77665c9.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -1091,7 +1091,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12916/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-06-23 18:44:21.000000000 Z
@@ -1105,7 +1105,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12861/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -1119,7 +1119,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12899/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -1133,7 +1133,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13016/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -1147,7 +1147,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12962/default_bd8397841d0aa5de035298a9130ee2dc9d9b0ece.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -1160,7 +1160,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12964/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-08-04 21:25:46.000000000 Z
@@ -1174,7 +1174,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
-  detection_source_url: github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet.Tests/VkNet.Tests.csproj
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet.Tests/VkNet.Tests.csproj
   detection_source: VkNet.Tests/VkNet.Tests.csproj
   last_updated_by: Инютин Максим Николаевич
   last_updated_on: 2022-08-18 21:07:34.000000000 Z
