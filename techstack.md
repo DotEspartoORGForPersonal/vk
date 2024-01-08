@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEspartoORGForPersonal/vk](https://github.com/DotEspartoORGForPersonal/vk)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|86<br/>Tools used|12/26/23 <br/>Report generated|
+|87<br/>Tools used|01/08/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -171,16 +171,16 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (73)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (74)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg'/> NuGet (73)
+## <img width='24' height='24' src='https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg'/> NuGet (74)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[FluentAssertions](https://www.nuget.org/FluentAssertions)|v6.8.0|11/09/22|Инютин Максим Николаевич |Apache-2.0|N/A|
 |[Flurl](https://www.nuget.org/Flurl)|v2.8.2|06/16/19|Инютин Максим Николаевич |MIT|N/A|
 |[Flurl.Http](https://www.nuget.org/Flurl.Http)|v2.4.2|06/16/19|Инютин Максим Николаевич |MIT|N/A|
-|[HtmlAgilityPack](https://www.nuget.org/HtmlAgilityPack)|v1.11.46|12/09/22|dependabot[bot] |N/A|N/A|
+|[HtmlAgilityPack](https://www.nuget.org/HtmlAgilityPack)|v1.11.46|12/27/23|DotEsparto1 |N/A|N/A|
 |[JetBrains.Annotations](https://www.nuget.org/JetBrains.Annotations)|v2022.3.1|11/09/22|Инютин Максим Николаевич |MIT|N/A|
 |[Microsoft.Bcl](https://www.nuget.org/Microsoft.Bcl)|v1.1.10|06/23/22|dependabot[bot] |N/A|N/A|
 |[Microsoft.Bcl.Async](https://www.nuget.org/Microsoft.Bcl.Async)|v1.0.168|06/23/22|dependabot[bot] |N/A|N/A|
@@ -188,10 +188,10 @@ Full tech stack [here](/techstack.md)
 |[Microsoft.Extensions.Configuration](https://www.nuget.org/Microsoft.Extensions.Configuration)|v2.2.0|06/23/22|dependabot[bot] |Apache-2.0|N/A|
 |[Microsoft.Extensions.Configuration.Abstractions](https://www.nuget.org/Microsoft.Extensions.Configuration.Abstractions)|v2.2.0|06/23/22|dependabot[bot] |Apache-2.0|N/A|
 |[Microsoft.Extensions.Configuration.Binder](https://www.nuget.org/Microsoft.Extensions.Configuration.Binder)|v2.2.4|06/23/22|dependabot[bot] |Apache-2.0|N/A|
-|[Microsoft.Extensions.DependencyInjection](https://www.nuget.org/Microsoft.Extensions.DependencyInjection)|v7.0.0|12/09/22|dependabot[bot] |Apache-2.0|N/A|
+|[Microsoft.Extensions.DependencyInjection](https://www.nuget.org/Microsoft.Extensions.DependencyInjection)|v7.0.0|12/27/23|DotEsparto1 |Apache-2.0|N/A|
 |[Microsoft.Extensions.DependencyInjection.Abstractions](https://www.nuget.org/Microsoft.Extensions.DependencyInjection.Abstractions)|v2.2.0|06/23/22|dependabot[bot] |Apache-2.0|N/A|
 |[Microsoft.Extensions.Logging](https://www.nuget.org/Microsoft.Extensions.Logging)|v2.2.0|06/23/22|dependabot[bot] |Apache-2.0|N/A|
-|[Microsoft.Extensions.Logging.Abstractions](https://www.nuget.org/Microsoft.Extensions.Logging.Abstractions)|v7.0.0|12/09/22|dependabot[bot] |Apache-2.0|N/A|
+|[Microsoft.Extensions.Logging.Abstractions](https://www.nuget.org/Microsoft.Extensions.Logging.Abstractions)|v7.0.0|12/27/23|DotEsparto1 |Apache-2.0|N/A|
 |[Microsoft.Extensions.Options](https://www.nuget.org/Microsoft.Extensions.Options)|v2.2.0|06/23/22|dependabot[bot] |Apache-2.0|N/A|
 |[Microsoft.Extensions.Primitives](https://www.nuget.org/Microsoft.Extensions.Primitives)|v2.2.0|06/23/22|dependabot[bot] |Apache-2.0|N/A|
 |[Microsoft.NETCore.Platforms](https://www.nuget.org/Microsoft.NETCore.Platforms)|v2.2.1|06/23/22|dependabot[bot] |MIT|N/A|
@@ -199,7 +199,8 @@ Full tech stack [here](/techstack.md)
 |[Microsoft.Win32.Primitives](https://www.nuget.org/Microsoft.Win32.Primitives)|v4.3.0|06/23/22|dependabot[bot] |N/A|N/A|
 |[Moq](https://www.nuget.org/Moq)|v4.18.2|11/16/17|Inyutin Maxim |BSD-3-Clause|N/A|
 |[NETStandard.Library](https://www.nuget.org/NETStandard.Library)|v1.6.1|12/03/18|Инютин Максим Николаевич |N/A|N/A|
-|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v13.0.2|12/09/22|dependabot[bot] |MIT|N/A|
+|[NLog](https://www.nuget.org/NLog)|v4.5.11|06/16/19|Инютин Максим Николаевич |BSD-3-Clause|N/A|
+|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v13.0.5|12/27/23|DotEsparto1 |MIT|N/A|
 |[SonarAnalyzer.CSharp](https://www.nuget.org/SonarAnalyzer.CSharp)|v8.48.0|11/09/22|Инютин Максим Николаевич |N/A|N/A|
 |[System.AppContext](https://www.nuget.org/System.AppContext)|v4.3.0|08/04/21|dependabot[bot] |N/A|N/A|
 |[System.Buffers](https://www.nuget.org/System.Buffers)|v4.4.0|08/04/21|dependabot[bot] |N/A|N/A|
