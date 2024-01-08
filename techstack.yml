@@ -1,12 +1,12 @@
 repo_name: DotEspartoORGForPersonal/vk
-report_id: d4e0baed97ca4b31b8e80acfe813c59f
+report_id: 5ed9618dd13f6bdd8424f2f216f58f38
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-26T15:37:06+00:00'
-requested_by: dependabot[bot]
+timestamp: '2024-01-08T15:18:19+00:00'
+requested_by: DotEsparto1
 provider: github
 branch: develop
-detected_tools_count: 86
+detected_tools_count: 87
 tools:
 - name: ASP.NET
   description: An open source web framework for building modern web apps and services
@@ -31,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -85,6 +86,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/10164/528389819366_e7a0672f0480b3e98d21_512.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/azure-pipelines.yml
   detection_source: azure-pipelines.yml
   last_updated_by: azure-pipelines[bot]
   last_updated_on: 2018-09-14 18:21:01.000000000 Z
@@ -97,6 +99,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -106,6 +109,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -115,6 +119,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/.github/workflows/ci.yml
   detection_source: ".github/workflows/ci.yml"
   last_updated_by: inyutin-maxim
   last_updated_on: 2020-12-26 12:30:20.000000000 Z
@@ -126,6 +131,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: Инютин Максим Николаевич
   last_updated_on: 2018-02-18 17:26:47.000000000 Z
@@ -138,6 +144,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Инютин Максим Николаевич
   last_updated_on: 2017-08-22 09:14:04.000000000 Z
@@ -160,6 +167,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9672/nlog_logo_square_normal.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: Инютин Максим Николаевич
   last_updated_on: 2019-06-16 14:12:09.000000000 Z
@@ -218,8 +226,8 @@ tools:
   image_url: https://img.stackshare.io/package/12918/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
   detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet/VkNet.csproj
   detection_source: VkNet/VkNet.csproj
-  last_updated_by: dependabot[bot]
-  last_updated_on: 2022-12-09 21:01:46.000000000 Z
+  last_updated_by: DotEsparto1
+  last_updated_on: 2023-12-27 12:19:11.000000000 Z
 - name: JetBrains.Annotations
   description: ReSharper Annotations help reduce false positive warnings
   package_url: https://www.nuget.org/JetBrains.Annotations
@@ -332,8 +340,8 @@ tools:
   image_url: https://img.stackshare.io/package/12846/default_0f5233770e71818507f2339042e7e61bef904e70.png
   detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet/VkNet.csproj
   detection_source: VkNet/VkNet.csproj
-  last_updated_by: dependabot[bot]
-  last_updated_on: 2022-12-09 21:01:46.000000000 Z
+  last_updated_by: DotEsparto1
+  last_updated_on: 2023-12-27 12:19:11.000000000 Z
 - name: Microsoft.Extensions.DependencyInjection.Abstractions
   description: Abstractions for dependency injection
   package_url: https://www.nuget.org/Microsoft.Extensions.DependencyInjection.Abstractions
@@ -374,8 +382,8 @@ tools:
   image_url: https://img.stackshare.io/package/12853/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
   detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet/VkNet.csproj
   detection_source: VkNet/VkNet.csproj
-  last_updated_by: dependabot[bot]
-  last_updated_on: 2022-12-09 21:01:46.000000000 Z
+  last_updated_by: DotEsparto1
+  last_updated_on: 2023-12-27 12:19:11.000000000 Z
 - name: Microsoft.Extensions.Options
   description: Provides a strongly typed way of specifying and accessing settings
     using dependency injection
@@ -476,10 +484,25 @@ tools:
   detection_source: examples/VkNet.Wpf/packages.config
   last_updated_by: Инютин Максим Николаевич
   last_updated_on: 2018-12-03 20:53:24.000000000 Z
+- name: NLog
+  description: NLog is a logging platform for .NET with rich log routing and management
+    capabilities
+  package_url: https://www.nuget.org/NLog
+  version: 4.5.11
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12859/default_a3ccb59f9bc7225d3e241611dc27d0f4cd9875eb.png
+  detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/examples/VkNet.Wpf/packages.config
+  detection_source: examples/VkNet.Wpf/packages.config
+  last_updated_by: Инютин Максим Николаевич
+  last_updated_on: 2019-06-16 14:12:09.000000000 Z
 - name: Newtonsoft.Json
   description: Json.NET is a popular high-performance JSON framework for .NET
   package_url: https://www.nuget.org/Newtonsoft.Json
-  version: 13.0.2
+  version: 13.0.5
   license: MIT
   open_source: true
   hosted_saas: false
@@ -488,8 +511,8 @@ tools:
   image_url: https://img.stackshare.io/package/nuget/image.png
   detection_source_url: https://github.com/DotEspartoORGForPersonal/vk/blob/develop/VkNet/VkNet.csproj
   detection_source: VkNet/VkNet.csproj
-  last_updated_by: dependabot[bot]
-  last_updated_on: 2022-12-09 21:01:46.000000000 Z
+  last_updated_by: DotEsparto1
+  last_updated_on: 2023-12-27 12:19:11.000000000 Z
 - name: SonarAnalyzer.CSharp
   description: Analyzers which spot bugs and code smells in your code
   package_url: https://www.nuget.org/SonarAnalyzer.CSharp
